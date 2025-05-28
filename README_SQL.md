@@ -10,7 +10,6 @@ This file explains the SQL logic used to analyze customer behavior at Universal 
 - **Fields:** ID, Age, Income, Family, Education, Mortgage, PersonalLoan, CreditCard, CDAccount, Online, etc.
 
 ---
-
 ## 🛠️ SQL Tasks Completed
 
 ### 1. Data Preparation
