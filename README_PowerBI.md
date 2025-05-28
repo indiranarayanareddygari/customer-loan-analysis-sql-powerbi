@@ -48,7 +48,7 @@ This Power BI dashboard visualizes customer behavior using insights derived from
 
 ## 📐 Key DAX Logic
 
-See [`README_DAX.md`](./README_DAX.md) for full DAX formulas.
+See `README_DAX.md`for full DAX formulas.
 
 Includes:
 - `Loan_acceptance_rate`
